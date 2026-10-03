@@ -1,6 +1,12 @@
 <h1 align="center">Hi, I'm TYSON Pengtao 👋</h1>
 
 <p align="center">
+  <a href="./README.md"><strong>English</strong></a>
+  ·
+  <a href="./README.zh-CN.md">简体中文</a>
+</p>
+
+<p align="center">
   <strong>Digital Twin · AI · Engineering · Automation</strong>
 </p>
 
